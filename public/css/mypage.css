@@ -1,0 +1,17 @@
+.username{
+    margin: 0;
+    margin-bottom: 3px;
+    padding: 0;
+    font-size: 50px;
+}
+
+.other-info{
+    display: inline-flex;
+}
+
+.other-info p{
+    margin: 0;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    font-size: 24px;
+}

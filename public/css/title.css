@@ -1,0 +1,28 @@
+.search-form {
+    margin: 0px auto;
+    padding: 100px 0px;
+    max-width: 608px;
+}
+
+.search-form p {
+    margin-bottom: 10px;
+    font-weight: bold;
+    line-height: 1;
+    font-size: 36px;
+}
+
+.search-form .form-submit {
+    display: inline-flex;
+}
+
+.search-form .keyword {
+    margin-right: 0px;
+    padding-right: 300px;
+    font-size: 20px; 
+    flex: 1 1 0%;
+}
+
+.search-form input[type="submit"] {
+    padding: 5px 20px; 
+    font-size: 20px;
+}

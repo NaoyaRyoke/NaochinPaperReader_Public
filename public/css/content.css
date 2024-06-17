@@ -1,0 +1,63 @@
+/* content.php周りのやつ */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* .container section{
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+} */
+
+.container .content{
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-right: 1px solid #ccc;
+    overflow-y: scroll;
+    height: 750px;
+}
+
+.container .abstract{
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-right: 1px solid #ccc;
+}
+
+.highlight{
+    background-color: yellow;
+    cursor: pointer;
+}
+
+#input_inline_comment {
+    color: black;
+    text-decoration: none;
+}
+
+#input_reply_comment {
+    color: black;
+    text-decoration: none;
+}
+
+#delete_inline_comment {
+    color: black;
+    text-decoration: none;
+}
+
+.bx-wrapper {
+    box-shadow: none;
+    border: none;
+    background: none;
+}
+
+.bx-wrapper .bx-viewport {
+    box-shadow: none;
+    border: none;
+}
+
+.bxslider li {
+    background: none;
+    border: none;
+}

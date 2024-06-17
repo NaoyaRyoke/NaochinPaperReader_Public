@@ -1,0 +1,52 @@
+.search-form {
+    display: inline-flex;
+}
+
+.search-form .keyword{
+    margin-right: 0px;
+    padding-right: 300px;
+    font-size:20px;
+    flex:1 1 0%;
+}
+
+.search-form input[type="submit"] {
+    padding: 5px 20px;
+    font-size: 20px;
+}
+
+.search-list {
+    margin: 0px auto;
+    padding-top: 30px;
+}
+
+.paper-content {
+    border-bottom: 2px solid #9b9b9b; /* 黒色の2pxのボーダーラインを下に追加 */
+    margin: 5px;
+    padding: 10px;
+    padding-bottom: 10px; /* ボーダーとコンテンツの間にスペースを追加 */
+    margin-bottom: 20px; /* ボーダーとメインコンテンツの間にスペースを追加 */
+}
+
+.paper-content a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+.auther-list {
+    font-size: 20px;
+}
+
+.auther-name {
+    margin: 5px 10px;
+    display: inline-block;
+}
+
+.abstract-name {
+    font-size: 20px;
+}
+
+.paper-content:hover {
+    background-color: bisque;
+}

@@ -1,0 +1,14 @@
+main {
+    margin: 0px auto;
+    max-width: 900px;
+
+}
+
+.add-form {
+    font-size: 20px;
+}
+
+.add-form .title-text {
+    padding: 0px 380px;
+}
+
