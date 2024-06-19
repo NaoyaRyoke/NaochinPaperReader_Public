@@ -2,6 +2,9 @@
 論文管理アプリ
 名前案（paper chat）
 
+## スライドはこちら
+https://docs.google.com/presentation/d/1O9YZFlZLXWOCJGQQi_iBP7lK-uFuD_-x/edit?usp=sharing&ouid=116260502751510462926&rtpof=true&sd=true
+
 ## Next Task
 - 管理者画面系は階層を分ける
 - インラインコメント表示にはbxsliderが必要？
