@@ -94,12 +94,3 @@ git push origin (branch名)
 選択されたテキストの近くに行くと，コメントを閲覧できるようにする．
 
 もしくは，右側にインラインテキスト表示用のボックス用意する？
-
-
-
-## github
-https://github.com/mminegishi28/movie
-
-https://github.com/kyoei77/ChineseFood
-
-https://github.com/re-shimomura/tripmemory
